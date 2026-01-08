@@ -35,19 +35,19 @@ The Autos dataset contains information about used cars, including various techni
 
 Key Features:
 
-Brand
+Aspiration
 
-Vehicle Type
+Drive Wheels
 
 Fuel Type
 
-Year of Registration
+body-style
 
-Power (PS)
+engine location
 
-Mileage
+length
 
-Gearbox
+width
 
 Price (Target Variable)
 
